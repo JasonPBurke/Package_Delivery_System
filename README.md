@@ -5,4 +5,4 @@ This was my final project for my Data structures and Alogrithms II course.  It u
 a shortest delivery path for a given list of packages and delivery locations.  This takes into account 'special instructions'
 for packages such as specific truck, delivery deadlines, incorrect addresses, delayed package arrivals, etc.
 
-This utalizes hashtable and graph data structures, and is implemented using a greedy algorithm.
+This utilizes hashtable and graph data structures, and is implemented using a greedy algorithm.
